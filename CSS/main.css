@@ -382,7 +382,7 @@ bokeh {
     }
 
       h1, h2, span {
-        z-index: -1;
+        z-index: -3;
       }
 
       /* .congrats {
